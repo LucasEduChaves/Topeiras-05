@@ -9,7 +9,7 @@
 }
 
 body {
-  background-image: url(../assets/fundo.svg);
+  background-image: url(./assets/fundo.svg);
   background-size: cover;
   background-repeat: no-repeat;
 
